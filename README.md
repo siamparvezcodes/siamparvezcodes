@@ -1,18 +1,18 @@
+```md
 <div align="center">
+
+<img width="100%" src="YOUR_BANNER_IMAGE_URL" alt="banner"/>
 
 # Md. Siam Parvez
 
 ### Full Stack Web Developer
 
-Building scalable web applications and exploring AI.
+Building scalable web applications and exploring Artificial Intelligence.
 
-<p>
-  <a href="https://www.linkedin.com/in/siam-parvez/">LinkedIn</a> •
-  <a href="https://siamparvez-portfolio-fzbi.vercel.app/">Portfolio</a> •
-  <a href="mailto:siamparvez003@gmail.com">Email</a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=siamparvezcodes&style=flat-square" />
+[LinkedIn](https://www.linkedin.com/in/siam-parvez/) •
+[GitHub](https://github.com/siamparvezcodes) •
+[Portfolio](https://siamparvez-portfolio-fzbi.vercel.app/) •
+[Email](mailto:siamparvez003@gmail.com)
 
 </div>
 
@@ -20,11 +20,25 @@ Building scalable web applications and exploring AI.
 
 ## About Me
 
-Full Stack Web Developer with experience building modern web applications using the MERN ecosystem. Currently focused on strengthening problem solving skills through Data Structures and Algorithms while exploring Artificial Intelligence and scalable software systems.
+I am a Full Stack Web Developer with experience building modern web applications using the MERN ecosystem.
+
+Currently, I am improving my problem-solving skills through Data Structures and Algorithms while exploring Software Engineering and Artificial Intelligence.
+
+I enjoy building scalable products and continuously learning new technologies.
 
 ---
 
-## Tech Stack
+## Current Activities
+
+- Exploring Next.js and TypeScript
+- Strengthening my Data Structures and Algorithms knowledge
+- Practicing problem solving regularly
+- Building full stack web applications
+- Exploring Artificial Intelligence and LLM technologies
+
+---
+
+## Skills
 
 ### Frontend
 
@@ -38,27 +52,18 @@ Full Stack Web Developer with experience building modern web applications using 
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Authentication & UI
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
 
-* Hero UI
-* Better Auth
-* JWT Authentication
-* REST API Development
-* Stripe Integration
+### Additional Technologies
 
----
-
-## Current Focus
-
-* Data Structures and Algorithms
-* Problem Solving
-* Competitive Programming
-* Software Engineering
-* Artificial Intelligence
+- REST API Development
+- JWT Authentication
+- Better Auth
+- Stripe Integration
 
 ---
 
@@ -68,7 +73,8 @@ Full Stack Web Developer with experience building modern web applications using 
 
 Healthcare platform built using the MERN stack.
 
-Live: https://vitaflow-client.vercel.app/
+**Live:**  
+https://vitaflow-client.vercel.app/
 
 ---
 
@@ -76,7 +82,8 @@ Live: https://vitaflow-client.vercel.app/
 
 Job platform connecting recruiters and job seekers.
 
-Live: https://hireloop-client-beryl.vercel.app/
+**Live:**  
+https://hireloop-client-beryl.vercel.app/
 
 ---
 
@@ -84,41 +91,19 @@ Live: https://hireloop-client-beryl.vercel.app/
 
 Pet adoption platform designed to help pets find homes.
 
-Live: https://pet-adoption-platform-a188.vercel.app/
+**Live:**  
+https://pet-adoption-platform-a188.vercel.app/
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siamparvezcodes&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvezcodes&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=siamparvezcodes&show_icons=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvezcodes" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvezcodes&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvezcodes&layout=compact" />
 </p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siamparvezcodes&no-frame=true&column=7" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siamparvezcodes&hide_border=true" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+```
