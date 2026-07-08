@@ -1,109 +1,42 @@
-
 <div align="center">
 
-<img width="100%" src="YOUR_BANNER_IMAGE_URL" alt="banner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=32&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Md.+Siam+Parvez;Full+Stack+Web+Developer;Building+scalable+web+applications+and+exploring+AI" />
 
-# Md. Siam Parvez
+<br>
 
-### Full Stack Web Developer
+<a href="https://www.linkedin.com/in/siam-parvez/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Building scalable web applications and exploring Artificial Intelligence.
+<a href="https://siamparvez-portfolio-fzbi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-[LinkedIn](https://www.linkedin.com/in/siam-parvez/) •
-[GitHub](https://github.com/siamparvezcodes) •
-[Portfolio](https://siamparvez-portfolio-fzbi.vercel.app/) •
-[Email](mailto:siamparvez003@gmail.com)
+<a href="mailto:siamparvez003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=siamparvezcodes&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
-I am a Full Stack Web Developer with experience building modern web applications using the MERN ecosystem.
+```yaml
+name: Md. Siam Parvez
+role: Full Stack Web Developer
+location: Bangladesh
+current_focus:
+  - DSA
+  - Problem Solving
+  - Software Engineering
+  - Artificial Intelligence
 
-Currently, I am improving my problem-solving skills through Data Structures and Algorithms while exploring Software Engineering and Artificial Intelligence.
-
-I enjoy building scalable products and continuously learning new technologies.
-
----
-
-## Current Activities
-
-- Exploring Next.js and TypeScript
-- Strengthening my Data Structures and Algorithms knowledge
-- Practicing problem solving regularly
-- Building full stack web applications
-- Exploring Artificial Intelligence and LLM technologies
-
----
-
-## Skills
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-</p>
-
-### Additional Technologies
-
-- REST API Development
-- JWT Authentication
-- Better Auth
-- Stripe Integration
-
----
-
-## Featured Projects
-
-### VitaFlow
-
-Healthcare platform built using the MERN stack.
-
-**Live:**  
-https://vitaflow-client.vercel.app/
-
----
-
-### HireLoop
-
-Job platform connecting recruiters and job seekers.
-
-**Live:**  
-https://hireloop-client-beryl.vercel.app/
-
----
-
-### PawsHome
-
-Pet adoption platform designed to help pets find homes.
-
-**Live:**  
-https://pet-adoption-platform-a188.vercel.app/
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siamparvezcodes&show_icons=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvezcodes" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvezcodes&layout=compact" />
-</p>
-
+interests:
+  - SaaS Products
+  - Startups
+  - Scalable Web Applications
