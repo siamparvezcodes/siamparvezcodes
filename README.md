@@ -1,52 +1,30 @@
-<!-- Banner -->
+<div align="center">
 
-<p align="center">
-  <img src="YOUR_BANNER_URL_HERE" alt="Banner" width="100%" />
-</p>
+# Md. Siam Parvez
 
-<h1 align="center">Md. Siam Parvez</h1>
+### Full Stack Web Developer
 
-<h3 align="center">Full Stack Web Developer</h3>
-
-<p align="center">
 Building scalable web applications and exploring AI.
+
+<p>
+  <a href="https://www.linkedin.com/in/siam-parvez/">LinkedIn</a> •
+  <a href="https://siamparvez-portfolio-fzbi.vercel.app/">Portfolio</a> •
+  <a href="mailto:siamparvez003@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/siam-parvez/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://siamparvez-portfolio-fzbi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat-square&logo=vercel" />
-  </a>
-  <a href="mailto:siamparvez003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=siamparvezcodes&style=flat-square" />
+
+</div>
 
 ---
 
 ## About Me
 
-Full Stack Web Developer specializing in the MERN ecosystem with experience building production-ready web applications.
-
-I enjoy solving real-world problems through software and continuously improving my engineering skills through Data Structures and Algorithms.
-
-My long-term interests include scalable systems, SaaS products, startups, and Artificial Intelligence.
+Full Stack Web Developer with experience building modern web applications using the MERN ecosystem. Currently focused on strengthening problem solving skills through Data Structures and Algorithms while exploring Artificial Intelligence and scalable software systems.
 
 ---
 
-## Current Activities
-
-* Exploring advanced Data Structures and Algorithms
-* Improving problem solving skills
-* Building modern full stack applications
-* Learning software engineering principles
-* Exploring Artificial Intelligence technologies
-
----
-
-## Skills
+## Tech Stack
 
 ### Frontend
 
@@ -63,13 +41,24 @@ My long-term interests include scalable systems, SaaS products, startups, and Ar
 ### Authentication & UI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,vercel" />
 </p>
 
 * Hero UI
 * Better Auth
 * JWT Authentication
 * REST API Development
+* Stripe Integration
+
+---
+
+## Current Focus
+
+* Data Structures and Algorithms
+* Problem Solving
+* Competitive Programming
+* Software Engineering
+* Artificial Intelligence
 
 ---
 
@@ -77,40 +66,33 @@ My long-term interests include scalable systems, SaaS products, startups, and Ar
 
 ### VitaFlow
 
-Modern healthcare platform built using MERN technologies.
+Healthcare platform built using the MERN stack.
 
-https://vitaflow-client.vercel.app/
+Live: https://vitaflow-client.vercel.app/
+
+---
 
 ### HireLoop
 
 Job platform connecting recruiters and job seekers.
 
-https://hireloop-client-beryl.vercel.app/
-
-### PawsHome
-
-Pet adoption platform designed to help pets find loving homes.
-
-https://pet-adoption-platform-a188.vercel.app/
+Live: https://hireloop-client-beryl.vercel.app/
 
 ---
 
-## Connect With Me
+### PawsHome
 
-* LinkedIn: https://www.linkedin.com/in/siam-parvez/
-* Portfolio: https://siamparvez-portfolio-fzbi.vercel.app/
-* Email: [siamparvez003@gmail.com](mailto:siamparvez003@gmail.com)
+Pet adoption platform designed to help pets find homes.
+
+Live: https://pet-adoption-platform-a188.vercel.app/
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siamparvezcodes&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvezcodes&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siamparvezcodes&show_icons=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvezcodes&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
@@ -119,8 +101,24 @@ https://pet-adoption-platform-a188.vercel.app/
 
 ---
 
-## Profile Views
+## GitHub Trophies
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siamparvezcodes&style=flat-square" />
+  <img src="https://github-profile-trophy.vercel.app/?username=siamparvezcodes&no-frame=true&column=7" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siamparvezcodes&hide_border=true" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
