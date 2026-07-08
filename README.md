@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img width="100%" src="YOUR_BANNER_IMAGE_URL" alt="banner"/>
@@ -106,4 +106,4 @@ https://pet-adoption-platform-a188.vercel.app/
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvezcodes&layout=compact" />
 </p>
-```
+
