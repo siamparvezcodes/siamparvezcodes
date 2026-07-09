@@ -1,48 +1,75 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Md.%20Siam%20Parvez&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Web%20Developer&descAlignY=60" />
+
 # Md. Siam Parvez
 
 ### Full Stack Web Developer
 
-Building scalable web applications and exploring AI.
+Building scalable web applications and exploring Artificial Intelligence.
 
 <p>
-  <a href="https://www.linkedin.com/in/siam-parvez/">LinkedIn</a> •
-  <a href="https://siamparvez-portfolio-fzbi.vercel.app/">Portfolio</a> •
-  <a href="mailto:siamparvez003@gmail.com">Email</a>
+  <a href="https://github.com/siamparvezcodes">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/siam-parvez/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://siamparvez-portfolio-fzbi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:siamparvez003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=siamparvezcodes&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=siamparvezcodes&style=for-the-badge" />
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
-Full Stack Web Developer with experience building modern web applications using the MERN ecosystem. Currently focused on strengthening problem solving skills through Data Structures and Algorithms while exploring Artificial Intelligence and scalable software systems.
+I am a Full Stack Web Developer passionate about building modern, scalable, and user-friendly web applications using the MERN ecosystem.
+
+Currently, I am improving my problem-solving skills through Data Structures and Algorithms while exploring Artificial Intelligence and Software Engineering concepts.
+
+I enjoy learning new technologies and continuously improving my development skills.
 
 ---
 
-## Tech Stack
+# Current Activities
 
-### Frontend
+* Exploring Next.js and modern React patterns.
+* Strengthening my Data Structures and Algorithms knowledge.
+* Practicing problem solving and competitive programming.
+* Learning TypeScript for scalable application development.
+* Exploring Artificial Intelligence and Machine Learning.
+
+---
+
+# Skills
+
+## Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 </p>
 
-### Backend
+## Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Authentication & UI
+## Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,firebase" />
 </p>
+
+## Additional Technologies
 
 * Hero UI
 * Better Auth
@@ -52,64 +79,47 @@ Full Stack Web Developer with experience building modern web applications using 
 
 ---
 
-## Current Focus
+# Featured Projects
 
-* Data Structures and Algorithms
-* Problem Solving
-* Competitive Programming
-* Software Engineering
-* Artificial Intelligence
+## VitaFlow
 
----
+A modern healthcare management platform built with the MERN stack.
 
-## Featured Projects
-
-### VitaFlow
-
-Healthcare platform built using the MERN stack.
-
-Live: https://vitaflow-client.vercel.app/
+🔗 https://vitaflow-client.vercel.app/
 
 ---
 
-### HireLoop
+## HireLoop
 
-Job platform connecting recruiters and job seekers.
+A job platform connecting recruiters and job seekers.
 
-Live: https://hireloop-client-beryl.vercel.app/
-
----
-
-### PawsHome
-
-Pet adoption platform designed to help pets find homes.
-
-Live: https://pet-adoption-platform-a188.vercel.app/
+🔗 https://hireloop-client-beryl.vercel.app/
 
 ---
 
-## GitHub Statistics
+## PawsHome
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siamparvezcodes&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvezcodes&hide_border=true" height="170"/>
-</p>
+A pet adoption platform designed to help pets find loving homes.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvezcodes&layout=compact&hide_border=true" />
-</p>
+🔗 https://pet-adoption-platform-a188.vercel.app/
 
 ---
 
-## GitHub Trophies
+# GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siamparvezcodes&no-frame=true&column=7" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siamparvezcodes&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvezcodes&theme=transparent&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvezcodes&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
 
 ---
 
-## Contribution Graph
+# Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siamparvezcodes&hide_border=true" />
@@ -117,8 +127,18 @@ Live: https://pet-adoption-platform-a188.vercel.app/
 
 ---
 
-## Contribution Snake
+# GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=siamparvezcodes&theme=flat&no-frame=true&column=7" />
 </p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
