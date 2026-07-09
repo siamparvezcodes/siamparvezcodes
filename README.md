@@ -1,9 +1,7 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Md.%20Siam%20Parvez&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Web%20Developer&descAlignY=60" />
 
 # Md. Siam Parvez
-
 ### Full Stack Web Developer
 
 Building scalable web applications and exploring Artificial Intelligence.
@@ -52,25 +50,21 @@ I enjoy learning new technologies and continuously improving my development skil
 # Skills
 
 ## Frontend Development
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 </p>
 
 ## Backend Development
-
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ## Tools & Platforms
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,firebase" />
 </p>
 
 ## Additional Technologies
-
 * Hero UI
 * Better Auth
 * JWT Authentication
@@ -82,25 +76,19 @@ I enjoy learning new technologies and continuously improving my development skil
 # Featured Projects
 
 ## VitaFlow
-
 A modern healthcare management platform built with the MERN stack.
-
 🔗 https://vitaflow-client.vercel.app/
 
 ---
 
 ## HireLoop
-
 A job platform connecting recruiters and job seekers.
-
 🔗 https://hireloop-client-beryl.vercel.app/
 
 ---
 
 ## PawsHome
-
 A pet adoption platform designed to help pets find loving homes.
-
 🔗 https://pet-adoption-platform-a188.vercel.app/
 
 ---
@@ -108,12 +96,12 @@ A pet adoption platform designed to help pets find loving homes.
 # GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siamparvezcodes&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=siamparvezcodes&theme=github-dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=siamparvezcodes&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvezcodes&theme=dark&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvezcodes&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvezcodes&layout=compact&theme=dark&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -129,8 +117,9 @@ A pet adoption platform designed to help pets find loving homes.
 # GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siamparvezcodes&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=siamparvezcodes&theme=onedark&no-frame=true&row=1&column=7&margin-w=15" />
 </p>
+
 ---
 
 <div align="center">
