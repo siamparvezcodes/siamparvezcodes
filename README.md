@@ -104,7 +104,7 @@ Live: https://pet-adoption-platform-a188.vercel.app/
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siamparvezcodes&no-frame=true&column=7" />
+  <img src="./profile/trophy.svg" />
 </p>
 
 ---
