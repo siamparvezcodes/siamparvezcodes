@@ -107,15 +107,14 @@ A pet adoption platform designed to help pets find loving homes.
 
 # GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siamparvezcodes&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=siamparvezcodes&theme=github-dark&hide_border=true" height="180"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siamparvezcodes&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvezcodes&theme=transparent&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvezcodes&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvezcodes&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</p>
 
 ---
 
@@ -130,9 +129,8 @@ A pet adoption platform designed to help pets find loving homes.
 # GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siamparvezcodes&theme=flat&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=siamparvezcodes&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
-
 ---
 
 <div align="center">
