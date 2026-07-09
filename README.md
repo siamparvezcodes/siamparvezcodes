@@ -93,7 +93,7 @@ Live: https://pet-adoption-platform-a188.vercel.app/
 
 ## GitHub Statistics
 
-## GitHub Statistics
+
 
 <p align="center">
   <img src="./profile/stats.svg" height="170"/>
