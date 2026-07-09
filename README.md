@@ -93,15 +93,12 @@ Live: https://pet-adoption-platform-a188.vercel.app/
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siamparvezcodes&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvezcodes&hide_border=true" height="170"/>
-</p>
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvezcodes&layout=compact&hide_border=true" />
+  <img src="./profile/stats.svg" height="170"/>
+  <img src="./profile/top-langs.svg" height="170"/>
 </p>
-
 ---
 
 ## GitHub Trophies
